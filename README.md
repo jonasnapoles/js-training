@@ -2,7 +2,7 @@
 
 Training JavaScript Repository
 
-## A high-level programming languague
+### A high-level programming languague
 
 ## Helps in creating pages, along with HTML and CSS.
 
