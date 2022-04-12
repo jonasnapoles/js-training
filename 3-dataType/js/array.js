@@ -22,6 +22,10 @@ console.log(arr[0]);
 
 console.log(int[1]); //output position 1
 
-arr[1] = 5;
+arr[1] = 5; //change element
+
+arr[0] = "Ireland";
 
 console.log(arr);
+
+console.log(typeof arr);
