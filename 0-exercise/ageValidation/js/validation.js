@@ -1,7 +1,8 @@
 var age;
+var minimumAge = 18;
 
-if (age < 18){
-    alert("You are 18 year old");
+if (age > minimumAge){
+    document.write("You are 18 year old");
 }else{
-    alert("You aren't 18 year old")
+    document.write("You aren't 18 year old");
 }
