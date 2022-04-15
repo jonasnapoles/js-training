@@ -9,9 +9,16 @@
 ## There are instructions that can determine the flow of an application 
 ## This makes software dynamic
 
+## Conditional: else and alse if
+
+* In case the ´if´ statement is negative, we can add ´else´;
+* Another conditional will be executed;
+* We can then create a fork in the code;
+* The ´else if´ has the possibility to do another check and add another code block.
 
 ## Assignment Operators
 
 * They are commonly used to check dondition structures;
 * We have the following operators: ==, !=, >,<, >=, <=;
 * By adding this comparison empression we can get true or false.
+
