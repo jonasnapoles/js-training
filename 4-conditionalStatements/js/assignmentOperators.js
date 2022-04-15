@@ -14,9 +14,20 @@ if (car) {
     console.log("He owns a car");
 }
 
-var name = "Julia";
+var name = "Sarah";
 
-if(name == "Sarah"){
+if (name == "Sarah") {
     console.log("My name is Sarah");
+}
 
+if (name != "Sarah") {
+    console.log("My name is Julia");
+}
+
+if (20 > 10){
+    console.log("Less than 20");
+}
+
+if (10 < 20) {
+    console.log(" greater than 10")
 }
