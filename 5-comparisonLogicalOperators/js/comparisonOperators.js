@@ -1,3 +1,8 @@
+/**
+ * JavaScript Comparison and Logical Operators
+ * Assignment Operators
+ */
+
 var age = 15;
 var car;
 if (age <= 17) {
@@ -31,3 +36,7 @@ if (20 > 10){
 if (10 < 20) {
     console.log(" greater than 10")
 }
+
+/**
+ * 
+ */
