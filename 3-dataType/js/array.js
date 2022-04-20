@@ -29,3 +29,5 @@ arr[0] = "Ireland";
 console.log(arr);
 
 console.log(typeof arr);
+
+document.write("WELLCOME!");
